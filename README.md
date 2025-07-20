@@ -1,2 +1,5 @@
 # CardioCareAI
-CardioCareAI is an AI-based web application that predicts heart health risks using machine learning. Built with Python, Flask, and MySQL, it analyzes health inputs like age, BP, and cholesterol to provide instant, data-driven predictions, promoting early detection and preventive care.
+CardioCareAI is an AI-powered heart health risk prediction system designed to assist individuals in assessing their risk of cardiovascular disease through a simple, web-based interface.
+The system uses machine learning models trained on medical datasets to analyze key health indicators such as age, blood pressure, cholesterol levels, and lifestyle factors. By inputting these parameters, users receive an instant, data-driven prediction of their heart health risk.
+Built using Python, Flask, and integrated with a MySQL database, the application provides a seamless experience—from user authentication to personalized prediction results. The interface is intuitive and accessible, allowing both healthcare professionals and general users to utilize the tool efficiently.
+CardioCareAI aims to promote early detection and awareness of heart-related issues, enabling proactive health decisions. It combines the power of AI with user-centric design to contribute toward preventive healthcare solutions.
